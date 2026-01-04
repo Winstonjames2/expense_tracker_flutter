@@ -1,4 +1,4 @@
-# Finager
+# Finager Developed By Kyaw Htet Myat Tun.
 
 Finager is a comprehensive finance management application designed to help users track expenses, manage budgets, and monitor financial activities efficiently. Finager targets Logistic Business for truck dispatching, expense tracking and family expenses and incomes. The app is built with Flutter and provides a modern, cross-platform solution for personal and business finance management.
 
@@ -129,10 +129,17 @@ flutter pub get
    - Edit `lib/services/api_service.dart`
    - Update the `baseUrl` constant
 
-4. Run the app:
+4. Generate I10n for translations
+```bash
+flutter gen-l10n
+```
+
+5. Run the app:
 ```bash
 flutter run
 ```
+
+### make sure to configure the backend cuz this is only flutter frontend 
 
 ### Building for Production
 
