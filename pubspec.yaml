@@ -1,0 +1,57 @@
+name: finager
+description: "Finager is a finance management application designed to help users track expenses, manage budgets, and achieve financial goals efficiently."
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+      sdk: flutter
+  intl: 0.20.2
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.0.0
+  go_router: ^14.3.0
+  image_picker: ^1.0.4
+  shared_preferences: ^2.5.2
+  http: ^1.3.0
+  provider: ^6.1.4
+  fl_chart: ^0.71.0
+  collection: ^1.19.1
+  connectivity_plus: ^6.1.4
+  mime: ^2.0.0
+  http_parser: ^4.1.2
+  path: ^1.9.1
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1 
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/images/icon/icon-512x512.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/images/icon/icon-512x512.png
+    - assets/images/icon/icon-512x512.png
+    - assets/images/icon/icon-512x512.png
+    - assets/images/icon/icon-512x512.png
+    - assets/images/icon/icon-512x512.png
+    - assets/images/icon/truck-128x128.png
+
+
