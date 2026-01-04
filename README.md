@@ -161,7 +161,7 @@ flutter build windows --release
 ```
 
 ## Connect To Backend
-For backend, I use python django rest framework. You can find the backend code at https://github.com/finager/finager-backend
+For backend, I use python django rest framework. You can find the backend code at https://github.com/Winstonjames2/expense_tracker_backend_django
 To connect to the backend, simply change the `baseUrl` constant in `lib/services/api_service.dart` to your backend URL.
 
 ## Key Models
