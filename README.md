@@ -116,8 +116,8 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd app
+git clone https://github.com/Winstonjames2/expense_tracker_flutter.git
+cd expense_tracker_flutter
 ```
 
 2. Install dependencies:
@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-For support or questions, please contact: support@finager.app
+For support or questions, please contact: kyawhtetmyattun@gmail.com
 
 ---
 
