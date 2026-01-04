@@ -13,7 +13,7 @@ The project uses the following technologies:
 - FL Chart
 - Flutter Localizations
 - Cupertino Icons
-
+- 
 ## Features
 
 ### 💰 Transaction Management
